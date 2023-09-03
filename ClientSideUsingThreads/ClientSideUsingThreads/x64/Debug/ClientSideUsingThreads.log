@@ -1,0 +1,4 @@
+﻿  ClientSideUsingThreads.cpp
+C:\Users\SSI\source\repos\ClientSideUsingThreads\ClientSideUsingThreads\ClientSideUsingThreads.cpp(32,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\SSI\source\repos\ClientSideUsingThreads\ClientSideUsingThreads\ClientSideUsingThreads.cpp(71,27): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  ClientSideUsingThreads.vcxproj -> C:\Users\SSI\source\repos\ClientSideUsingThreads\x64\Debug\ClientSideUsingThreads.exe

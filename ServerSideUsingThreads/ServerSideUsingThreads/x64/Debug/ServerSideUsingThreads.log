@@ -1,0 +1,6 @@
+﻿  ServerSideUsingThreads.cpp
+C:\Users\SSI\source\repos\ServerSideUsingThreads\ServerSideUsingThreads\ServerSideUsingThreads.cpp(26,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\SSI\source\repos\ServerSideUsingThreads\ServerSideUsingThreads\ServerSideUsingThreads.cpp(78,27): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\SSI\source\repos\ServerSideUsingThreads\ServerSideUsingThreads\ServerSideUsingThreads.cpp(104,31): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\SSI\source\repos\ServerSideUsingThreads\ServerSideUsingThreads\ServerSideUsingThreads.cpp(66,10): warning C4101: 'buffer': unreferenced local variable
+  ServerSideUsingThreads.vcxproj -> C:\Users\SSI\source\repos\ServerSideUsingThreads\x64\Debug\ServerSideUsingThreads.exe
